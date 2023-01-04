@@ -1,0 +1,7 @@
+
+
+*************************************
+   Tax Calculation for; 
+     Customer Name: rujal shrestha      Address: khandbari     Age: 21
+     TaxAmount: Rs. 150.0
+*************************************
